@@ -6,6 +6,9 @@ __pycache__/
 # Virtual environment
 stock-tax-env/
 
+trades/migrations/*
+!trades/migrations/__init__.py
+
 # Django
 *.log
 *.pot
