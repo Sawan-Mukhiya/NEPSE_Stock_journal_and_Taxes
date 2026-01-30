@@ -4,15 +4,14 @@ __pycache__/
 *.pyo
 
 # Virtual environment
-stock-tax-env/
-
-trades/migrations/*
-!trades/migrations/__init__.py
+stock-env/
 
 # Django
 *.log
 *.pot
 *.pyc
+.env
+
 db.sqlite3
 media/
 
